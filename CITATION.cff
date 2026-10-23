@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Many Alerts, Few Injuries: alert burden and yield of common monitoring rules (code)"
+authors:
+  - family-names: Ajjilapuram
+    given-names: Yashwanth
+    orcid: "https://orcid.org/0009-0000-0198-8303"
+    affiliation: "Ball2Data Ltd"
+date-released: 2026-10-23
+license: MIT
+repository-code: "https://github.com/yashwanthajjilapuram123/paper2-alert-burden"
