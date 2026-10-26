@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Many Alerts, Few Injuries: alert burden and yield of common monitoring rules (code)"
+authors:
+  - family-names: Ajjilapuram
+    given-names: Yashwanth
+    orcid: "https://orcid.org/0009-0000-0198-8303"
+    affiliation: "Ball2Data Ltd"
+date-released: 2026-10-23
+license: MIT
+repository-code: "https://github.com/yashwanthajjilapuram123/paper2-alert-burden"
+preferred-citation:
+  type: article
+  title: "Many Alerts, Few Injuries: Alert Burden and Yield of Common Training-Load and Wellness Rules in Elite Women's Football"
+  authors:
+    - family-names: Ajjilapuram
+      given-names: Yashwanth
+      orcid: "https://orcid.org/0009-0000-0198-8303"
+      affiliation: "Ball2Data Ltd"
+  journal: "SportRxiv"
+  year: 2026
+  doi: "10.51224/SportRxiv.1140"
+  url: "https://doi.org/10.51224/SportRxiv.1140"
